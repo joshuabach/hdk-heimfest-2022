@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T11:55:15.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.75" etag="6xWvl35Okj0tHWRKN7mk" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T11:58:47.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.75" etag="ilCAqcy5wsplghlbcSFS" version="18.0.0" type="github">
   <diagram id="Wfs0pKFtCN_PEFJKDJEH" name="Page-1">
-    <mxGraphModel dx="1382" dy="802" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" backgroundImage="{&quot;src&quot;:&quot;https://home.hadiko.de/~joshua.bachmeier/uploads/Lageplan%20Heimfest.jpg&quot;,&quot;width&quot;:&quot;1628&quot;,&quot;height&quot;:&quot;1375&quot;,&quot;x&quot;:0,&quot;y&quot;:0}" math="0" shadow="0">
+    <mxGraphModel dx="3949" dy="2291" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" backgroundImage="{&quot;src&quot;:&quot;https://home.hadiko.de/~joshua.bachmeier/uploads/Lageplan%20Heimfest.jpg&quot;,&quot;width&quot;:&quot;1628&quot;,&quot;height&quot;:&quot;1375&quot;,&quot;x&quot;:0,&quot;y&quot;:0}" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,8 +175,8 @@
         <mxCell id="w3jfegyJL3XXw5E8wWUC-153" value="&lt;div&gt;Backstage&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="779" y="918" width="53" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="w3jfegyJL3XXw5E8wWUC-156" value="Sani / Erholraum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="445" y="465" width="78" height="16" as="geometry" />
+        <mxCell id="w3jfegyJL3XXw5E8wWUC-156" value="Sani / Erholraum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="420" y="464" width="130" height="23" as="geometry" />
         </mxCell>
         <mxCell id="w3jfegyJL3XXw5E8wWUC-160" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=9;fontColor=default;strokeColor=#000000;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -243,6 +243,9 @@
         </mxCell>
         <mxCell id="NjJawy5yZ8ZEdPmJlJTa-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;rotation=21;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="694.51" y="694.54" width="13.95" height="70.34" as="geometry" />
+        </mxCell>
+        <mxCell id="NjJawy5yZ8ZEdPmJlJTa-3" value="" style="shape=cross;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FF0000;fillColor=#FF0000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="448" y="439" width="26" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
