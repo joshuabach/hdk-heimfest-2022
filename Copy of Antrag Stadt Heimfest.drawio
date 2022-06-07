@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T15:47:23.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 OPR/86.0.4363.59" etag="T-4LqQsUZecO6EYwJDAj" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T15:50:54.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 OPR/86.0.4363.59" etag="9iHwUuXQtUEW0S4rxOCl" version="19.0.2" type="github">
   <diagram id="Wfs0pKFtCN_PEFJKDJEH" name="Page-1">
     <mxGraphModel dx="1382" dy="774" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" backgroundImage="{&quot;src&quot;:&quot;https://home.hadiko.de/~joshua.bachmeier/uploads/Lageplan%20Heimfest.jpg&quot;,&quot;width&quot;:&quot;1628&quot;,&quot;height&quot;:&quot;1375&quot;,&quot;x&quot;:0,&quot;y&quot;:0}" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
             <mxPoint x="450" y="898" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w3jfegyJL3XXw5E8wWUC-88" value="evtl. Flurstände&lt;br&gt;mit Pavillion" style="rounded=0;whiteSpace=wrap;html=1;fontColor=none;strokeWidth=1;fillColor=#00FF00;rotation=21;" parent="1" vertex="1">
+        <mxCell id="w3jfegyJL3XXw5E8wWUC-88" value="Flurstände&lt;br&gt;mit Pavillion" style="rounded=0;whiteSpace=wrap;html=1;fontColor=none;strokeWidth=1;fillColor=#00FF00;rotation=21;" parent="1" vertex="1">
           <mxGeometry x="500.08" y="956.94" width="87.18" height="34.87" as="geometry" />
         </mxCell>
         <mxCell id="w3jfegyJL3XXw5E8wWUC-89" value="&lt;div style=&quot;font-size: 9px&quot;&gt;Bierinsel&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeWidth=1;fillColor=#00FF00;fontSize=10;" parent="1" vertex="1">
@@ -116,7 +116,7 @@
             <mxPoint x="997" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w3jfegyJL3XXw5E8wWUC-100" value="&lt;div&gt;Bühne&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fillStyle=cross-hatch;fontColor=default;strokeWidth=1;fillColor=#E5A50A;gradientColor=none;rotation=15;" parent="1" vertex="1">
+        <mxCell id="w3jfegyJL3XXw5E8wWUC-100" value="&lt;div&gt;Bühne&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fillStyle=cross-hatch;strokeWidth=1;fillColor=#f8cecc;rotation=15;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="779" y="846" width="56" height="36" as="geometry" />
         </mxCell>
         <mxCell id="w3jfegyJL3XXw5E8wWUC-101" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;strokeColor=#000000;strokeWidth=3;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="w3jfegyJL3XXw5E8wWUC-100" edge="1">
