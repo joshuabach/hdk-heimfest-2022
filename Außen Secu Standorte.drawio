@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T19:03:53.340Z" agent="5.0 (X11)" etag="oNpSFBvC7POmNe24toSO" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T19:05:37.778Z" agent="5.0 (X11)" etag="8Ls5W7T20vNcpcDYH_FR" version="20.0.1" type="github">
   <diagram id="Wfs0pKFtCN_PEFJKDJEH" name="Page-1">
-    <mxGraphModel dx="1146" dy="658" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" backgroundImage="{&quot;src&quot;:&quot;https://home.hadiko.de/~joshua.bachmeier/uploads/Lageplan%20Heimfest.jpg&quot;,&quot;width&quot;:&quot;1628&quot;,&quot;height&quot;:&quot;1375&quot;,&quot;x&quot;:0,&quot;y&quot;:0}" math="0" shadow="0">
+    <mxGraphModel dx="2749" dy="1579" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" backgroundImage="{&quot;src&quot;:&quot;https://home.hadiko.de/~joshua.bachmeier/uploads/Lageplan%20Heimfest.jpg&quot;,&quot;width&quot;:&quot;1628&quot;,&quot;height&quot;:&quot;1375&quot;,&quot;x&quot;:0,&quot;y&quot;:0}" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,6 +352,9 @@
         </mxCell>
         <mxCell id="nP_QKrs2xzuRUE6JUup8-13" value="Bier-insel" style="shape=offPageConnector;whiteSpace=wrap;html=1;size=0.4370954123276089;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;spacingBottom=31;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="541.0000000000002" y="787" width="44.81" height="71.06" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_QKrs2xzuRUE6JUup8-14" value="Awareness" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley;fontSize=20;fillColor=#FFFF00;gradientColor=#ffa500;strokeColor=#d79b00;fontStyle=1;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1462" y="294" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
